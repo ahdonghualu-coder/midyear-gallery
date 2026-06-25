@@ -1,0 +1,4 @@
+*.zip
+generate_gallery.ps1
+static-preview-server.js
+DEPLOY.md
